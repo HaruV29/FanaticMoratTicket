@@ -1,0 +1,52 @@
+body{
+    background: black;
+
+}
+.encabezado{
+    width: 1200px;
+}
+h1{
+    font-family: 'Cinzel';
+    color:rgb(244, 104, 104);
+    font-size: 40px;
+    text-align: center;
+}
+p{
+    font-family: 'Questrial';
+        color:rgb(75, 160, 214);
+        font-size: 20px;
+        text-align: center;
+}
+ul{
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    font-family:'Questrial';
+    font-size: 20px;
+    text-align: left;
+}
+.e{
+    background: rgb(201, 154, 75);
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    font-family:'Questrial';
+    border-radius: 20px;
+    text-decoration:none;
+    font-size: 20px;
+    text-align: center;
+}
+.MP{
+    background: #ab3939;
+    padding: 6px;
+    color: rgb(255, 255, 255);
+    font-family:'Questrial';
+    border-radius: 10px;
+    text-decoration:none;
+    font-size: 15px;
+}
+.v{
+    width: 20px;
+    text-align: left;
+}
+.x{
+    text-align: center;
+}

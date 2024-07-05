@@ -1,0 +1,56 @@
+body{
+    background: black;
+    text-align: center;
+}
+.encabezado{
+    width: 1200px;
+}
+.cm{
+    text-align: right;
+}
+.logo{
+    width: 100px;
+}
+h1{
+    font-family: 'Cinzel';
+    color:rgb(223, 75, 75);
+    font-size: 40px;
+    text-align: center;
+}
+p{
+    font-family: 'Questrial';
+ color: rgba(198, 160, 106, 0.847);
+ font-size: 20px;
+ text-align: center;
+}
+.CIU{
+    color: aliceblue;
+    text-align: center;
+}
+.COM{
+    color: aliceblue;
+    text-align: center;
+}
+.cd{
+    background: rgb(171, 57, 57);
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    font-family:'Questrial';
+    border-radius: 12px;
+    text-decoration:none;
+    text-align: center;
+
+}
+.cpr{
+    background: rgb(171, 57, 57);
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    font-family:'Questrial';
+    border-radius: 12px;
+    text-decoration:none;
+    text-align: center;
+}
+.RM{
+    width: 80px;
+    text-align: left;
+}

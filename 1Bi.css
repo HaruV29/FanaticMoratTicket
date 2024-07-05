@@ -1,0 +1,41 @@
+body{
+    background: black;
+    text-align: center;
+}
+.encabezado{
+    width: 1200px;
+}
+h1{
+    font-family: 'Cinzel';
+    color:rgb(244, 104, 104);
+    font-size: 40px;
+    text-align: center;
+}
+.LE{
+    width: 150px;
+}
+p{
+    font-family: 'Questrial';
+        color:rgb(75, 160, 214);
+        font-size: 20px;
+        text-align: center;
+}
+.B11DIC{
+    width:250px;
+}
+.DG{
+    background: rgb(244, 104, 104);
+    padding: 15px;
+    color: rgb(255, 255, 255);
+    font-family:'Questrial';
+    border-radius: 12px;
+    text-decoration:none;
+    font-size: 15px;
+    text-align: center;
+}
+.RM{
+    width: 100px;
+}
+.b{
+    text-align: left;
+}

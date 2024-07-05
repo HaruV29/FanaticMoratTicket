@@ -1,0 +1,49 @@
+body{
+    background: black;
+}
+.encabezado{
+    width: 1200px;
+}
+p{
+    font-family: 'Cinzel';
+    color:rgb(223, 75, 75);
+    font-size: 38px;
+    text-align: center;
+}
+.red{
+    width: 80px;
+}
+.pp{
+    font-family: 'Questrial';
+ color: rgba(236, 203, 156, 0.847);
+ font-size: 20px;
+ text-align: center;
+}
+ul{
+    list-style: none;
+}
+li::before{
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-image: url(IMAGENES/viñeta.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-right: 5px;
+}
+li{
+        padding: 5px;
+        color: rgb(255, 255, 255);
+        font-family:'Questrial';
+        font-size: 20px;
+        text-decoration:none;
+        text-align: center;
+}
+.LC{
+    width: 90px;
+}
+div{
+    text-align: left;
+}

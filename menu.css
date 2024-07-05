@@ -1,0 +1,39 @@
+body{
+    background: rgb(0, 0, 0);
+}
+.encabezado{
+    width: 1200px;
+}
+h1{
+    font-family: 'Cinzel';
+    color:aliceblue;
+    font-size: 30px;
+    text-align: center;
+}
+p{
+ font-family: 'Questrial';
+ color: rgb(116, 159, 213);
+ font-size: 20px;
+ text-align: center;
+}
+.CF{
+    width: 200px;
+}
+.C{
+    width: 200px;
+}
+.D{
+    width: 200px;
+}
+.MyG{
+    width: 200px;
+}
+.T{
+    width: 200px;
+}
+.I{
+    width: 200px;
+}
+.men{
+    text-align: center;
+}

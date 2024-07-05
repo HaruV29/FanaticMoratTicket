@@ -1,0 +1,14 @@
+body{
+    background: black;
+    text-align: center;
+}
+.encabezado{
+    width: 1200px;
+}
+.MoratPagos{
+    width: 880px;
+}
+.r{
+    width: 100px;
+    text-align: left;
+}

@@ -1,0 +1,47 @@
+body{
+    background: black;
+}
+h1{
+    font-family: 'Cinzel';
+    color:aliceblue;
+    font-size: 40px;
+    text-align: center;
+}
+.FANMORAT{
+    width: 200px;
+}
+.menu{
+    height: 35;
+}
+.slogan{
+    height: 55;
+    width: 150;
+}
+.inicio{
+    text-align: center;
+}
+p{
+    font-family: 'Urbanist';
+    color: bisque;
+    font-size: 20px;
+}
+a{
+    background: red;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    font-family:'Questrial';
+    border-radius: 12px;
+    text-decoration:none;
+}
+.email{
+    width: 200px;
+    height: 30px;
+    font-family:'Questrial';
+    color: rgb(0, 0, 0);
+}
+.password{
+     width: 200px;
+    height: 30px;
+    font-family:'Questrial';
+    color: rgb(0, 0, 0);
+}

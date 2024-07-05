@@ -1,0 +1,43 @@
+body{
+    background: rgb(0, 0, 0);
+    text-align: center;
+}
+.encabezado{
+    width: 1200px;
+}
+h2{
+    font-family: 'Cinzel';
+    color:rgb(255, 255, 255);
+    font-size: 40px;
+    text-align: center;
+}
+p{
+    font-family: 'Questrial';
+        color:rgb(214, 158, 85);
+        font-size: 20px;
+        text-align: center;
+}
+ul{
+    padding: 5px;
+    color: rgb(102, 177, 223);
+    font-family:'Questrial';
+    font-size: 20px;
+    text-decoration:none;
+}
+.e{
+    background: rgb(171, 57, 57);
+    padding: 4px;
+    color: rgb(255, 255, 255);
+    font-family:'Questrial';
+    border-radius: 2px;
+    border-color: rgb(171, 57, 57);
+    text-decoration:none;
+    font-size: 6px;
+    text-align: center;
+}
+.RI{
+    width: 90px;
+}
+.b{
+    text-align: left;
+}

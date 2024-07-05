@@ -1,0 +1,85 @@
+body{
+    background: black;
+}
+.encabezado{
+    width: 1200;
+}
+h1{
+    font-family: 'Cinzel';
+    color:rgb(255, 255, 255);
+    font-size: 40px;
+    text-align: center;
+}
+.LE{
+    width: 200px;
+    text-align: center;
+}
+p{
+    font-family: 'Questrial';
+    color:rgb(223, 75, 75);
+    font-size: 20px;
+    text-align: center;
+}
+.texto{
+    text-align: center;
+}
+.pp{
+    font-family: 'Questrial';
+ color: rgba(73, 154, 221, 0.847);
+ font-size: 20px;
+ text-align: center;
+}
+ul{
+    list-style: none;
+}
+li::before{
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-image: url(IMAGENES/viñeta.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-right: 5px;
+}
+
+li{
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    font-family:'Questrial';
+    font-size: 20px;
+    text-decoration:none;
+    text-align: left;
+}
+.ex{
+    padding: 5px;
+    color: rgba(228, 166, 166, 0.863);
+    font-family:'Questrial';
+    text-decoration:none;
+    font-size: 17px;
+}
+.sp{
+    font-family: 'Questrial';
+ color: rgba(221, 162, 73, 0.847);
+ font-size: 20px;
+ text-align: center;
+}
+.ComprarYA{
+    background: rgb(171, 57, 57);
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    font-family:'Questrial';
+    border-radius: 12px;
+    text-decoration:none;
+    text-align: center;
+}
+.z{
+    text-align: center;
+}
+.j{
+    width: 90px;
+}
+.r{
+    text-align: left;
+}

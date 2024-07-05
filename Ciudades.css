@@ -1,0 +1,65 @@
+body{
+    background: black;
+    text-align: center;
+}
+.encabezado{
+    width: 1200px;
+}
+h1{
+    font-family: 'Cinzel';
+    color:rgb(223, 75, 75);
+    font-size: 40px;
+    text-align: center;
+}
+.text{
+    width: 70px;
+}
+p{
+    font-family: 'Questrial';
+ color: rgba(255, 255, 255, 0.847);
+ font-size: 30px;
+ text-align: center;
+}
+.pp{
+    font-family: 'Questrial';
+ color: rgba(68, 175, 205, 0.847);
+ font-size: 22px;
+ text-align: center;
+}
+.sp{
+    font-family: 'Questrial';
+ color: rgba(228, 183, 99, 0.847);
+ font-size: 18px;
+ text-align: center;
+}
+ul{
+    list-style: none;
+}
+li::before{
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-image: url(IMAGENES/viñeta.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-right: 5px;
+}
+.listita{
+ text-align: center;
+}
+.a{
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    font-family:'Questrial';
+    font-size: 20px;
+    text-decoration:none;
+    text-align: center;
+}
+.rm{
+    width: 100px;
+}
+.xr{
+    text-align: left;
+}
